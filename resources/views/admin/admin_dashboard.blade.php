@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+  @include('admin.head')
+  
+  @include('admin.first_part')
+      <!-- partial:partials/_sidebar.html -->
+      @include('admin.sidebar')
+      <!-- partial -->
+      @include('admin.navbar')
+        <!-- partial -->
+       @include('admin.main_body')
+    <!-- container-scroller -->
+    <!-- plugins:js -->
+    @include('admin.script')
+    <!-- End custom js for this page -->
+  </body>
+</html>
