@@ -1,1 +1,1 @@
-# Laravel_Hospital_Appointment_Project
+# Hospital_Appointment_System
